@@ -35,3 +35,5 @@
 ### 🛠 Используемые библиотеки
 
 `pandas`, `numpy`, `matplotlib`, `seaborn`, `scipy`
+
+📘 [Открыть ноутбук проекта](https://github.com/AlexEgorova/da-games-market/blob/main/da-games-market.ipynb)
